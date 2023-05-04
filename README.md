@@ -15,3 +15,5 @@ Below is an image of the finished display. This refactoring enables accessibilit
 
 ## Notes
 This refactoring does not include flex styling thus distortion may occur fewer than 768px. 
+
+This code was refactored as an assignment and originally belongs to the University of Oregon and sourced from GitHub.com/xandromus.
