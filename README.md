@@ -11,7 +11,7 @@ Below is an image of the finished display. This refactoring enables accessibilit
 ![Horiseon-Mock-Up](https://user-images.githubusercontent.com/131072533/236292430-7848c7ce-25e4-4979-af23-f74f506c84d7.png)
 
 ## Link to Deployed Application
-file:///Users/mereljacobs/Bootcamp/01-Module-Homework/module-01/index.html
+(https://mereljac.github.io/module-01/)
 
 ## Notes
 This refactoring does not include flex styling thus distortion may occur fewer than 768px. 
